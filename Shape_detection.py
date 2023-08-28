@@ -1,3 +1,5 @@
+# Este codigo es la base para poder detectar las formas de los objetos
+# https://github.com/DarkOne1211/real-time-shape-detection/blob/master/shape_detection.py
 import cv2 as cv
 import numpy as np 
 import imutils
