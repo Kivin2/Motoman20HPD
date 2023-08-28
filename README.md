@@ -3,6 +3,8 @@ Es un proyecto que se aplica inteligencia artificial a un brazo robótico Motoma
 
 # Instalaciones necesarias
 Lo primero que se necesita es instalar algunas librererias de Python para poder reconocer dsitintas formas.
+
+Tambien se debe descargar RoboDK, el archivo Shape_detection.rdk, hay que descargarlo, no es codigo el codigo se encuentra dentro de este.
 ```
 pip install opencv-python
 pip install opencv-contrib-python
