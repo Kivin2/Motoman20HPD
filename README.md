@@ -16,6 +16,10 @@ https://www.youtube.com/watch?v=2FYm3GOonhk
 
 https://www.youtube.com/watch?v=tk9war7_y0Q
 
+https://www.youtube.com/watch?v=lbgl2u6KrDU
+
+https://www.youtube.com/watch?v=AMFhjir4WgQ
+
 # Documentación
 OpenCV: https://docs.opencv.org/4.x/d3/dd5/tutorial_table_of_content_other.html
 
