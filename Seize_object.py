@@ -23,7 +23,7 @@ while True:
     if corners:
 
         # Draw polygon around the marker
-        int_corners = np.int0(corners)
+        int_corners = np.intp(corners)
         cv2.polylines(img, int_corners, True, (0, 255, 0), 5)
 
         # Aruco Perimeter
